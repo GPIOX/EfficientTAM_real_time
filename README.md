@@ -5,7 +5,7 @@ Run EfficientTAM on a live video stream. Additionally, it can track and segment 
 Thanks for their excellent works: [EfficientTAM](https://github.com/yformer/EfficientTAM) and [SAM2 real-time](https://github.com/Gy920/segment-anything-2-real-time).
 
 ## Demos
-https://github.com/user-attachments/assets/43e4b901-ff95-4cf5-9d45-df9167874933
+https://github.com/user-attachments/assets/8432b537-1bb5-4877-b292-4fb80c83918c
 
 ## Usage
 1. Install dependencies
